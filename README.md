@@ -3,7 +3,7 @@
 
 |**Nama**|**NIM**|**Kelas**|**Mata Kuliah**|
 |----|---|-----|------|
-|Radityatama Nugraha|312310644|TI.23.A6|Basis Data|
+|Wishnu Aqbil Ramadani|312310591|TI.23.A6|Basis Data|
 
 # Soal Latihan Praktikum
 
